@@ -1,0 +1,86 @@
+[2025-12-08T21:45:53.999Z] GET /api/user/credits
+[2025-12-08T21:46:30.337Z] GET /api/user/credits
+[2025-12-08T21:47:19.561Z] POST /api/image/generate-image
+[2025-12-08T21:47:19.577Z] POST /api/image/generate-image
+[2025-12-08T21:47:19.990Z] POST /api/image/generate-image
+[2025-12-08T21:47:21.686Z] GET /api/user/credits
+[2025-12-08T21:47:25.082Z] POST /api/image/generate-image
+[2025-12-08T21:47:38.102Z] GET /api/user/credits
+[2025-12-08T21:47:50.063Z] GET /api/image/user-images?page=1&search=&sort=desc
+[2025-12-08T21:48:03.974Z] POST /api/image/generate-image
+[2025-12-08T21:48:07.731Z] GET /api/user/credits
+[2025-12-08T21:48:12.310Z] GET /api/image/user-images?page=1&search=&sort=desc
+[2025-12-08T21:48:34.252Z] GET /api/user/credits
+AUTH Decoded: {"id":"69374504bfeba1466ef7d009","iat":1765229828}
+[2025-12-08T21:49:57.750Z] GET /api/user/credits
+AUTH Decoded: {"id":"69374504bfeba1466ef7d009","iat":1765229828}
+[2025-12-08T21:50:09.492Z] GET /api/user/credits
+AUTH Decoded: {"id":"69374504bfeba1466ef7d009","iat":1765229828}
+[2025-12-08T21:50:20.832Z] GET /api/user/credits
+AUTH Decoded: {"id":"69374504bfeba1466ef7d009","iat":1765229828}
+[2025-12-08T21:50:36.738Z] POST /api/user/register
+[2025-12-08T21:50:37.037Z] GET /api/user/credits
+AUTH Decoded: {"id":"6937482c3c19a245683fd52d","iat":1765230636}
+[2025-12-08T21:50:45.737Z] POST /api/image/generate-image
+AUTH Decoded: {"id":"6937482c3c19a245683fd52d","iat":1765230636}
+Generate Image Request: {"userId":"6937482c3c19a245683fd52d","prompt":"a dancing bull"}
+[2025-12-08T21:50:52.934Z] GET /api/user/credits
+AUTH Decoded: {"id":"6937482c3c19a245683fd52d","iat":1765230636}
+[2025-12-08T21:50:59.302Z] GET /api/user/credits
+AUTH Decoded: {"id":"69374504bfeba1466ef7d009","iat":1765229828}
+[2025-12-08T21:51:01.451Z] GET /api/image/user-images?page=1&search=&sort=desc
+AUTH Decoded: {"id":"6937482c3c19a245683fd52d","iat":1765230636}
+[2025-12-08T21:52:30.681Z] GET /api/user/credits
+[2025-12-08T21:52:33.771Z] GET /api/user/credits
+[2025-12-08T21:52:37.582Z] POST /api/user/credits
+[2025-12-08T21:53:31.463Z] POST /api/user/register
+[2025-12-08T21:57:29.817Z] POST /api/image/generate-image
+AUTH Decoded: {"id":"693748db3c19a245683fd539","iat":1765230811}
+Generate Image Request: {"userId":"693748db3c19a245683fd539"}
+[2025-12-08T21:58:37.483Z] GET /api/user/credits
+AUTH Decoded: {"id":"69374504bfeba1466ef7d009","iat":1765229828}
+[2025-12-08T21:59:02.636Z] POST /api/image/generate-image
+AUTH Decoded: {"id":"69374504bfeba1466ef7d009","iat":1765229828}
+Generate Image Request: {"userId":"69374504bfeba1466ef7d009","prompt":"A final test image"}
+[2025-12-08T21:59:22.596Z] POST /api/image/generate-image
+AUTH Decoded: {"id":"69374504bfeba1466ef7d009","iat":1765229828}
+Generate Image Request: {"userId":"69374504bfeba1466ef7d009","prompt":"Debug log test"}
+[2025-12-08T21:59:23.877Z] POST /api/image/generate-image
+AUTH Decoded: {"id":"69374504bfeba1466ef7d009","iat":1765229828}
+Generate Image Request: {"userId":"69374504bfeba1466ef7d009","prompt":"Debug log test"}
+[2025-12-08T21:59:24.727Z] POST /api/image/generate-image
+AUTH Decoded: {"id":"69374504bfeba1466ef7d009","iat":1765229828}
+Generate Image Request: {"userId":"69374504bfeba1466ef7d009","prompt":"Debug log test"}
+[2025-12-08T21:59:31.224Z] POST /api/image/generate-image
+AUTH Decoded: {"id":"69374504bfeba1466ef7d009","iat":1765229828}
+Generate Image Request: {"userId":"69374504bfeba1466ef7d009","prompt":"A final test image"}
+[2025-12-08T21:59:34.892Z] POST /api/image/generate-image
+AUTH Decoded: {"id":"69374504bfeba1466ef7d009","iat":1765229828}
+Generate Image Request: {"userId":"69374504bfeba1466ef7d009","prompt":"A final test image"}
+[2025-12-08T21:59:43.662Z] GET /api/image/user-images?page=1&search=&sort=desc
+AUTH Decoded: {"id":"69374504bfeba1466ef7d009","iat":1765229828}
+[2025-12-08T22:00:10.416Z] POST /api/image/generate-image
+AUTH Decoded: {"id":"69374504bfeba1466ef7d009","iat":1765229828}
+Generate Image Request: {"userId":"69374504bfeba1466ef7d009","prompt":"A final test image"}
+[2025-12-08T22:00:11.025Z] POST /api/image/generate-image
+AUTH Decoded: {"id":"69374504bfeba1466ef7d009","iat":1765229828}
+Generate Image Request: {"userId":"69374504bfeba1466ef7d009","prompt":"A final test image"}
+[2025-12-08T22:00:11.395Z] POST /api/image/generate-image
+AUTH Decoded: {"id":"69374504bfeba1466ef7d009","iat":1765229828}
+Generate Image Request: {"userId":"69374504bfeba1466ef7d009","prompt":"A final test image"}
+[2025-12-08T22:05:24.962Z] GET /api/user/credits
+AUTH Decoded: {"id":"69374504bfeba1466ef7d009","iat":1765229828}
+[2025-12-08T22:05:39.268Z] GET /api/user/credits
+AUTH Decoded: {"id":"69374504bfeba1466ef7d009","iat":1765229828}
+[2025-12-08T22:10:56.272Z] POST /api/user/register
+[2025-12-08T22:10:56.638Z] GET /api/user/credits
+AUTH Decoded: {"id":"69374cf03c19a245683fd54a","iat":1765231856}
+[2025-12-08T22:11:04.733Z] POST /api/image/generate-image
+AUTH Decoded: {"id":"69374cf03c19a245683fd54a","iat":1765231856}
+Generate Image Request: {"userId":"69374cf03c19a245683fd54a","prompt":"elephant flying"}
+[2025-12-08T22:11:09.205Z] GET /api/user/credits
+AUTH Decoded: {"id":"69374cf03c19a245683fd54a","iat":1765231856}
+[2025-12-08T22:11:13.428Z] GET /api/image/user-images?page=1&search=&sort=desc
+AUTH Decoded: {"id":"69374cf03c19a245683fd54a","iat":1765231856}
+[2025-12-08T22:11:37.693Z] GET /api/image/user-images?page=1&search=&sort=desc
+AUTH Decoded: {"id":"69374cf03c19a245683fd54a","iat":1765231856}
